@@ -36,7 +36,6 @@ public enum EnumDyeColor {
 
 	private final EnumChatFormatting chatColor;
 
-	private static final String __OBFID = "CL_00002180";
 
 	private EnumDyeColor(int meta, int dyeDamage, String name, String unlocalizedName, MapColor mapColorIn, EnumChatFormatting chatColor) {
 		this.meta = meta;
